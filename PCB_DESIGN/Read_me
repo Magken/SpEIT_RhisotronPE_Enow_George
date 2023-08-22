@@ -5,10 +5,8 @@ Including Project Documents for:
 -Altium
 -Ki CAD
 
-Contains:
-
 -Gerber,
 -Layout,
 -Bom,
 -Pick and Place
-
+-schematic
