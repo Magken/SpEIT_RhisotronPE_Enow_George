@@ -1,8 +1,14 @@
 Contains PCB design Documents
+
 Including Project Documents for:
 -Open EDA proffessional online Editor
 -Altium
 -Ki CAD
 
+Contains:
 
+-Gerber,
+-Layout,
+-Bom,
+-Pick and Place
 
